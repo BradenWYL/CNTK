@@ -13,7 +13,7 @@ The data and configuration is checked in to github. You can get it by command:
 `git clone https://github.com/Microsoft/cntk`
 
 The example is under folder: 
-`<cntk_root>\Examples\Text\ATIS`
+`<cntk_root>\Examples\LanguageUnderstanding\ATIS\BrainScript`
 
 ## Data File Format
 There are four files under `data` sub-folder
