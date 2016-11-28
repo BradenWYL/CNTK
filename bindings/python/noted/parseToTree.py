@@ -1,7 +1,7 @@
 import numpy as np
 
 # determines if print intermediate results
-printLog = False
+printLog = True
 
 class Node:
 	def __init__(self, ID, phrase, pos, ifHighlighted):
@@ -108,6 +108,8 @@ def parseToDep (deps):
 	for line in deps:
 		start = line.find ("-") + 1
 		end = line.find (",", start)
+		while ord (line[start]) < 48 or ord (line[start]) > 57:
+			start = line.find ("-", start) + 1
 		word = int(line [start:end])
 		count = dic.get (word, 0)
 		dic [word] = count + 1
@@ -312,6 +314,8 @@ class Bank:
 
 	def count (self, word):
 		w = word.lower ()
+		if self.total == 0:
+			return 0
 		return self.dictionary.get (w, 0) / self.total
 
 def pos_convert (pos):
@@ -426,30 +430,4 @@ def pos_convert (pos):
 
 	return 0
 
-bank = Bank()
-for i in range (10):
-	bank.add ("My")
-for i in range (15):
-	bank.add ("dog")
-for i in range (23):
-	bank.add ("also")
-for i in range (7):
-	bank.add ("liKes")
-for i in range (9):
-	bank.add ("eating")
-for i in range (14):
-	bank.add ("sausage")
-for i in range (18):
-	bank.add ("computer")
-for i in range (100):
-	bank.add ("Bottle")
-for i in range (21):
-	bank.add ("cable")
-for i in range (36):
-	bank.add ("case")
-for i in range (77):
-	bank.add ("pencil")
-for i in range (18):
-	bank.add ("cover")
-for i in range (20):
-	bank.add ("pen")
+bank = Bank ()
