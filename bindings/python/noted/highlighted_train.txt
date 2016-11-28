@@ -1,0 +1,135 @@
+﻿But what is this thing called law? Does it consist of a set of universal
+#moral principles# in accordance with nature (see Chapter 1)? Or is it
+simply a collection of largely manmade, valid #rules#, #commands#, or
+#norms# (Chapter 2)? Does the law have a specific #purpose#, such as
+the protection of individual rights (Chapter 3), the attainment of
+justice (Chapter 4), or economic, political, and sexual equality
+(Chapter 6)? Can the law be divorced from its #social context#
+(Chapter 5)?
+These are merely some of the questions that lie in wait for anyone
+attempting to uncover the meaning of the concept and the function
+of law. And they permeate the landscape of the philosophy of law
+with its generous frontiers. Charting this vast territory is a daunting
+assignment. I can hope, in these pages, to identify only the most
+prominent features of its topography. To this end, I have placed the
+emphasis upon the #leading legal theories#, for they provide the
+optimum introduction to both classical and contemporary
+jurisprudential thought.
+This approach is #in no way# intended to devalue the strategy that
+seeks to elucidate the abundant conceptual and definitional
+problems that beset much of legal philosophy. Indeed, Chapter 4 is
+devoted to two of the most significant and difficult of them: #rights
+and justice#. Other taxing matters confronted by jurists include the
+#doctrine of precedent# (under which courts are themselves bound
+to follow decisions of higher tribunals), the question of whether
+there is a #moral duty# to obey the law, the concept of #legal
+personality#, the complexities of #causation and liability#, and various
+#theories of punishment#. All have a place within legal theory’s large
+territory, but, though some are considered indirectly in the
+following chapters, they lie beyond the modest objectives of these
+pages.
+
+Though this book promises a very short introduction to the
+philosophy of law, I use this phrase interchangeably with ‘legal
+theory’, ‘legal philosophy’, and ‘jurisprudence’. Strictly speaking,
+however, ‘jurisprudence’ concerns the theoretical analysis of law at
+the #highest# level of abstraction (e.g. questions about the nature of a
+right or a duty, judicial reasoning, etc, and are frequently implied
+within substantive legal disciplines). ‘Legal theory’ is often used to
+denote theoretical enquiries about law ‘as such’ that extend beyond
+the boundaries of law #as understood by professional lawyers# (e.g.
+Marxist approaches to legal domination). The ‘philosophy of law’, as
+its name implies, normally proceeds from the standpoint of the
+#discipline of philosophy# (e.g. it attempts to unravel the sort of
+problems that might vex moral or political philosophers, such as the
+concepts of freedom or authority). But contemporary writers tend
+to pay little attention to these nice distinctions; #the terrain of
+modern legal philosophy contains few fences.#
+
+
+#Legal theory is a far cry from legal theatre.# Yet even the
+sensationalist criminal trials – real or manufactured – that have
+become regular television fare, encapsulate features of the law that
+characteristically agitate legal philosophers. They spawn awkward
+questions about moral and legal responsibility, the justifications of
+punishment, the concept of harm, the judicial function, due
+process, and many more. #The philosophy of law, it is easy to
+demonstrate, is rarely an abstract, impractical pursuit.#
+
+No society can properly be understood or explained without a
+coherent conception of its #law and legal doctrine#. The social, moral,
+and cultural foundations of the law, and the theories which both
+inform and account for them, are no less important than the law’s
+‘black letter’. Among the many topics within legal theory’s capacious
+confines is that of the definition of law itself. It stands to reason
+that, before we can begin to explore the nature of law, we need to
+clarify what we mean by this often elusive concept. We can barely
+begin our analysis of the law and legal system without some #shared
+understanding# of what it is we are talking about. A constructive first
+step is to distinguish between #descriptive# and #normative# legal
+theory.
+
+Descriptive legal theory seeks to explain #what the law is#, and #why#,
+and its #consequences#. Normative legal theories, on the other hand,
+are concerned with #what the law ought to be#. Put differently,
+descriptive legal theories are about #facts#, normative legal theories
+are about #values#. There are #three# principal types of descriptive legal
+theory. First, there is the #‘doctrinal’# approach which propounds a
+theory to elucidate a particular legal doctrine. For example,
+#freedom of expression# might be justified by decisions of the courts
+on the limits of free speech. Doctrinal legal theory seeks to answer
+questions such as ‘can these cases be elucidated by some underlying
+theory?’ Secondly, descriptive legal theory may be #‘explanatory’#; it
+attempts to explain why the law is as it is. #Marxist legal theory#, for
+example, is ‘explanatory’ in this sense, for it offers an account of law
+as expressing the #interests of the ruling class# (see Chapter 5). A
+third form of descriptive legal theory concerns the consequences
+that are likely to follow from a certain set of legal rules. For example,#the economic analysis of law# (see Chapter 4) might gauge the likely
+costs of imposing a regime of strict liability on the manufacturers of
+motor vehicles.
+Normative legal theory, on the other hand, is concerned with values.
+A normative theory may, for instance, seek to establish whether
+strict liability of manufacturers of motor vehicles #ought to# be
+adopted in order to protect consumers. Would it be #fair# or just to do
+so? Normative legal theories thus tend inevitably to be associated
+with moral or political theories. In pursuing an evaluation of the
+law, normative legal theories might be either #‘ideal’# or #‘non-ideal’#.
+The former relate to what legal rules would create the best legal
+system if it were politically achievable. The latter presuppose an
+assortment of constraints on the choice of legal rules, such as the
+difficulty of enforcing such rules.
+
+But there is #no clear-cut distinction# between these two categories of
+legal philosophy. A normative theory may rely on a descriptive
+theory to obtain its purchase. Thus it is hard to sustain the
+normative theory of utilitarianism (see Chapter 4) without a
+descriptive account of the consequences of the application of a
+specific rule. How would a utilitarian know whether rule X causes
+the greatest happiness (result Y) without a description of these
+consequences? Similarly, a descriptive legal theory may, on the basis
+of predictions about the likelihood of success of, say, law reform, put
+a brake on the normative legal theory that gave birth to the
+improvement.
+
+It will also be seen (in Chapter 3) how normative and descriptive
+theory may be #grafted together# to yield a hybrid species of legal
+philosophy. In Ronald Dworkin’s theory of ‘law as integrity’, for
+example, there is an amalgamation of the goals of descriptive
+doctrinal theory and normative theory. By claiming that a theory of
+law should both #‘fit’# and #‘justify’# the legal materials, his theory of law
+as an interpretative concept appears to allow descriptive doctrinal
+theory to #coalesce# with normative theory.
+
+We live in a troubled, inequitable world. Perhaps it has always been
+so. In the face of wickedness and injustice, it is not difficult to
+descend into #vague oversimplification# and #rhetoric# when reflecting
+upon the proper nature and function of the law. Analytical clarity
+and scrupulous jurisprudential deliberation on the fundamental
+nature of law, justice, and the meaning of legal concepts are
+indispensable. Legal theory has a #decisive# role to play in defining
+and defending the values and ideals that sustain our way of life.
+
+It’s just not right.’ ‘It’s not natural.’ How many times have you heard these sorts of judgements invoked against a particular practice or act? What do they mean? When abortion is pronounced immoral, or same-sex marriages unacceptable, what is the basis of this censure? Is there #an objectively ascertainable measure of right and wrong#, good and bad? If so, by what means can we retrieve it?Moral questions pervade our lives; they are the stuff of political, and hence legal, debate. Moreover, since the establishment of the United Nations, the ethical tenor of international relations, especially in the field of human rights, is embodied in an increasing variety of international declarations and conventions, many of which draw on #the unspoken assumption# of natural law that there is indeed a corpus of moral truths that, if we apply our reasoning minds, we can all discover.Ethical problems have, of course, preoccupied moral philosophers since Aristotle. The revival of natural law theory may suggest that we have, over the centuries, come no closer to resolving them.‘The best description of natural law’, according to one leading #natural lawyer#, ‘is that it provides a name for the point of #intersection between law and morals#.’ Its main claim, put simply, is that what naturally is, ought to be. In his widely acclaimed book,
+Natural Law and Natural Rights, John Finnis asserts that when we attempt to explain what n law is, we make assumptions, willy-nilly, about what is ‘good’:It is often supposed that an evaluation of law as #a type of social institution#, if it is to be undertaken at all, #must# be preceded by a #value-free# description and analysis of that institution as it exists in fact. But the development of modern jurisprudence suggests, and reflection on the methodology of any social science confirms, that #a theorist cannot give a theoretical description and analysis of social facts#, unless he also participates in the work of evaluation, of understanding what is really good for human persons, and what is really required by practical reasonableness.This is a trenchant foundation for an analysis of natural law. It proposes that when we are discerning what is good, we are using our intelligence differently from when we are determining what exists. In other words, if we are to understand the nature and impact of the
+natural law project, we must recognize that #it yields a different logic#.The Roman lawyer, Cicero, drawing on Stoic philosophy, usefully identified the three main components of any natural law philosophy:True law is right reason in agreement with Nature; it is of universal application, unchanging and everlasting. . . . It is a sin to try to alter this law, nor is it allowable to attempt to repeal any part of it, and it is impossible to abolish it entirely. . . . [God] is the author of this law, its promulgator, and its enforcing judge.This underlines natural law’s #universality and immutability#, its standing as a ‘higher’ law, and its discoverability by reason (it is in this sense ‘natural’). Classical natural law doctrine has been employed to justify #both revolution and reaction#. During the 6th century bc, the Greeks described human laws as owing their importance to the power of fate that controlled everything. This conservative view is easily deployed to justify #even iniquitous aspects of the status quo#. By the 5th century bc, #however#, it was acknowledged that there might be #a conflict between the law of nature and the law of man#.
+Aristotle devoted less attention to natural law than to the distinction between natural and conventional justice. But it was the Greek Stoics, as mentioned above, who were particularly attracted to the notion of natural law, where ‘natural’ meant in accordance with reason. The Stoic view informed the approach adopted by the Romans (as expressed by Cicero) who recognized, #at least in theory#, that laws which did not #conform to ‘reason’# might be regarded as invalid.

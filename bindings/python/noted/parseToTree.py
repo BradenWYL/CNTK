@@ -1,5 +1,4 @@
 import numpy as np
-import FeedForwardNet as ffn
 
 # determines if print intermediate results
 printLog = False
@@ -427,9 +426,7 @@ def pos_convert (pos):
 
 	return 0
 
-# main program
-# initialize bank
-bank = Bank ()
+bank = Bank()
 for i in range (10):
 	bank.add ("My")
 for i in range (15):
@@ -456,72 +453,3 @@ for i in range (18):
 	bank.add ("cover")
 for i in range (20):
 	bank.add ("pen")
-
-# read in training and testing files
-filename1 = input ("What is the filename? ")
-filename2 = input ("What is the highlighted filename? ")
-#filename3 = input ("What is the filename for test input? ")
-#filename4 = input ("What is the highlighted filename test output? ")
-
-# extract features and construct input and output matrices
-print ("------")
-ffninput = np.array([])
-ffnoutput = np.array([])
-#testinput = np.array([])
-#testoutput = np.array([])
-
-# handle training data
-datas = handleFile (filename1, filename2)
-for data in datas:
-	temp_input = np.array([])
-	temp_label = np.zeros((1, 2))
-	for i in data:
-		if (data [i].vector().shape[0]) == 1:
-			if temp_input.size == 0:
-				temp_input = data [i].vector()
-				temp_label[0,:] = [0, data[i].label]
-				print(temp_label)
-				print(str(temp_label.shape))
-			else:
-				temp_input = np.concatenate((temp_input, data [i].vector()), axis=0)
-				temp_label = np.concatenate((temp_label, np.reshape([0, data[i].label], (1,2))), axis=0)
-	if ffninput.size == 0:
-		ffninput = temp_input
-		ffnoutput = temp_label
-	else :
-		ffninput = np.concatenate((ffninput, temp_input), axis=0)
-		ffnoutput = np.concatenate((ffnoutput, temp_label), axis=0)
-if printLog:
-	print("output matrix:(input) " + str(ffninput.shape))
-	print(ffninput)
-	print("output matrix:(output) " + str(ffnoutput.shape))
-	print(ffnoutput)
-#handle testing data
-#testdatas = handleFile (filename3, filename4)
-#for testdata in testdatas:
-#	temp_testinput = np.array([])
-#	temp_testlabel = np.zeros((1, 2))
-#	for i in testdata:
-#		if (testdata [i].vector().shape[0]) == 1:
-#			if temp_testinput.size == 0:
-#				temp_testinput = testdata [i].vector()
-#				temp_testlabel[0,:] = [0, testdata[i].label]
-#				print(temp_testlabel)
-#				print(str(temp_testlabel.shape))
-#			else:
-#				temp_testinput = np.concatenate((temp_testinput, testdata [i].vector()), axis=0)
-#				temp_testlabel = np.concatenate((temp_testlabel, np.reshape([0, testdata[i].label], (1,2))), axis=0)
-#	if testinput.size == 0:
-#		testinput = temp_testinput
-#		testoutput = temp_testlabel
-#	else :
-#		testinput = np.concatenate((testinput, temp_testinput), axis=0)
-#		testoutput = np.concatenate((testoutput, temp_testlabel), axis=0)
-#if printLog:
-#	print("output matrix:(testinput) " + str(testinput.shape))
-#	print(testinput)
-#	print("output matrix:(testoutput) " + str(testoutput.shape))
-#	print(testoutput)
-
-# CNTK FFN training & testing
-ffn.ffnet(ffninput.astype(np.float32), ffnoutput.astype(np.float32))
